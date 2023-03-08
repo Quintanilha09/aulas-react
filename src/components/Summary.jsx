@@ -14,7 +14,6 @@ export function Summary() {
             <Rectangle icon = {iconMemory} type={"Memory"} number={92} />
             <Rectangle type={"Verbal"} number={61} icon = {iconVerbal}/>
             <Rectangle type={"Visual"} number={73} icon = {iconVisual}/>
-
             <button>Continue</button>
         </section>
     )
